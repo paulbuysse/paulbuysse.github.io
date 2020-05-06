@@ -34,24 +34,24 @@ body {
 
 .Top{
     border:10px solid #000;
-    border-radius: 10px 40px 40px 10px;
+    border-radius: 10px 10px 10px 10px;
     width: 500px;
-    height: 275px;
+    height: 250px;
     background-color:#000;
 }
 
 .Bio{
     border:10px solid #000;
-    border-radius: 40px 10px 10px 40px;
+    border-radius: 10px 10px 10px 10px;
     width: 500px;
-    height: 200px;
+    height: 190px;
     background-color:#000;
 }
 
 .Work{
     border:10px solid #000;
-    border-radius: 10px 40px 40px 10px;
+    border-radius: 10px 10px 10px 10px;
     width: 500px;
-    height: 550px;
+    height: 565px;
     background-color:#000;
 }
