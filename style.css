@@ -9,6 +9,10 @@ body {
   color: white;
 }
 
+body {
+  font-family: "Times New Roman", Times, serif;
+}
+
 .Bio {
   margin-right: 350px;
   margin-left: 350px;
