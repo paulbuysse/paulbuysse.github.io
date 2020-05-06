@@ -3,12 +3,10 @@ body {
 }
 
 .Bio {
-  display: inline-block;
-  margin-top: 6px;
-  margin-right: 550px;
-  margin-left: 550px;
-  width: 75%;
-  height: 100px;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  margin-right: 150px;
+  margin-left: 80px;
 }
 
 .Top {
