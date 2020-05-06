@@ -5,3 +5,20 @@
   width: 75%;
   height: 100px;
 }
+
+.Top {
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 550px;
+  width: 75%;
+  height: 100px;
+}
+
+.Image{
+  display: inline-block;
+  margin-top: 6px;
+  margin-left: 550px;
+  width: 75%;
+  height: 100px;
+}
+
