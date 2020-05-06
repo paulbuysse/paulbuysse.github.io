@@ -2,6 +2,10 @@ body {
   background-color: lightblue;
 }
 
+body {
+  color: white;
+}
+
 .Bio {
   margin-right: 350px;
   margin-left: 350px;
@@ -30,8 +34,8 @@ body {
 
 .Top{
     border:10px solid #000;
-    border-radius: 10px 40px 40px 10px;
+    border-radius: 324px 324px 324px 324px;
     width: 200px;
     height: 100px;
-    background-color:#ccc;
+    background-color:#000;
 }
