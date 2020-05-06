@@ -34,8 +34,8 @@ body {
 
 .Top{
     border:10px solid #000;
-    border-radius: 324px 324px 324px 324px;
-    width: 200px;
-    height: 100px;
+    border-radius: 10px 10px 10px 10px;
+    width: 324px;
+    height: 200px;
     background-color:#000;
 }
