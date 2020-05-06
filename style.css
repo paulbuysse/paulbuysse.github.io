@@ -1,4 +1,8 @@
-body {
-  background-image: url(https://ak.picdn.net/shutterstock/videos/1022080360/thumb/1.jpg);
-  background-repeat: no-repeat;
-}
+<style>
+  body {
+    background-image: url(https://ak.picdn.net/shutterstock/videos/1022080360/thumb/1.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+</style>
