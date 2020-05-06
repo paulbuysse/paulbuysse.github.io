@@ -1,10 +1,17 @@
-* {
-  max-width: 700px;
-  margin: auto;
+.left {
+  height: 1000px;
+  width: 45px;
+  background-color: #e0eeee;
+  float: left;
+  position: fixed;
 }
 
-div {
-  border-radius: 5px;
+.right {
+  height: 1000px;
+  width: 45px;
+  background-color: #e0eeee;
+  float: right;
+  position: inherit;
 }
 
 body {
