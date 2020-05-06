@@ -32,10 +32,10 @@ body {
   margin-left: 350px;
 }
 
-div class="Top"{
-  background-color: black;
-  width: 300px;
-  border: 15px solid black;
-  padding: 50px;
-  margin: 20px;
+#box{
+    border:10px solid #000;
+    border-radius: 10px 10px 10px 10px;
+    width: 9999px;
+    height: 9999px;
+    background-color:#000;
 }
