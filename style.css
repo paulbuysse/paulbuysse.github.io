@@ -1,5 +1,5 @@
 body {
-  background-color: lightblue;
+  background-image: url(https://i.imgur.com/49Pawga.jpg);
 }
 
 body {
@@ -36,7 +36,7 @@ body {
     border:10px solid #000;
     border-radius: 10px 10px 10px 10px;
     width: 500px;
-    height: 250px;
+    height: 245px;
     background-color:#000;
 }
 
@@ -52,6 +52,6 @@ body {
     border:10px solid #000;
     border-radius: 10px 10px 10px 10px;
     width: 500px;
-    height: 565px;
+    height: 575px;
     background-color:#000;
 }
