@@ -28,7 +28,7 @@ body {
   margin-left: 350px;
 }
 
-#Top{
+.Top{
     border:10px solid #000;
     border-radius: 10px 40px 40px 10px;
     width: 200px;
