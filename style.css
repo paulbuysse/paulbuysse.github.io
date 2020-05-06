@@ -3,6 +3,10 @@
   margin: auto;
 }
 
+div {
+  border-radius: 5px;
+}
+
 body {
    background-color: lightblue;
 {
